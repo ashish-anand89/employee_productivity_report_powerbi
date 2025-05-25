@@ -37,17 +37,6 @@ A mock HR dataset generated using https://mockaroo.com/.
 
 ---
 
-## 📁 Folder Structure
-
-Employee_Productivity_Report/
-├── dataset.xlsx
-├── Employee_Productivity_Report.pbix
-├── screenshots/
-│ └── dashboard_view.png
-├── README.md
-
----
-
 ## 🧠 What I Learned
 
 - Creating insightful KPIs using DAX
