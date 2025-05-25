@@ -19,3 +19,51 @@ A mock HR dataset generated using https://mockaroo.com/.
 - Enable interactivity with slicers (Department, Manager, Location)
 
 ---
+
+## 📌 Key Features
+
+- ✅ KPI Cards for Total Tasks, Hours Worked, Average Productivity
+- 📊 Bar & Column Charts for Department and Manager performance
+- 📋 Matrix table for detailed employee-level breakdown
+- 🎛️ Interactive slicers for department, manager, location filters
+
+---
+
+## 🛠️ Tools Used
+
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Microsoft Excel (Data Preparation)
+
+---
+
+## 📁 Folder Structure
+
+Employee_Productivity_Report/
+├── dataset.xlsx
+├── Employee_Productivity_Report.pbix
+├── screenshots/
+│ └── dashboard_view.png
+├── README.md
+
+---
+
+## 🧠 What I Learned
+
+- Creating insightful KPIs using DAX
+- Effective use of slicers and filters for dynamic reporting
+- Best practices for visual layout and UX design
+- Importance of interactive dashboards in performance management
+
+---
+
+## 📸 Screenshot
+
+
+---
+
+## 📬 Contact
+
+**Ashish Anand**  
+📧 anand.ashish1@yahoo.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ashuanand)
